@@ -14,18 +14,6 @@ This is a CLI Tic-Tac-Toe game implemented in Java, featuring a AI opponent that
 
 ---
 
-## 📂 Code Structure
-
-The project is organized into several classes, each with a specific responsibility:
-
-* `Board.java`: An interface that defines the structure and behavior of the game board. It handles the state of the game's 3x3 grid.
-* `Player.java`: An interface representing a player, which can be either a human or a computer.
-* `HardComputer.java`: An implementation of the `Player` interface for the "Hard" AI. It uses the `Minimax` class to decide its moves.
-* `Minimax.java`: A utility class that contains the core logic for the minimax algorithm. It recursively explores all possible game states to find the optimal move for the AI.
-* `Result.java`: A helper class to check the current state of the game and determine if there is a winner, a draw, or if the game is still in progress.
-
----
-
 ## 🚀 How to Run
 
 To compile and run the project from your terminal, follow these steps:
@@ -42,7 +30,7 @@ To compile and run the project from your terminal, follow these steps:
     ```bash
     java tictactoe.Menu
     ```
-4.  **Run the main application:**
+4.  **Start the game:**
 
    
      To play as X against Easy AI:
