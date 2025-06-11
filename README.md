@@ -6,8 +6,9 @@ This is a CLI Tic-Tac-Toe game implemented in Java, featuring a AI opponent that
 
 ## 🌟 Features
 
-* **Player vs. AI**: Play against a computer opponent, with 3 levels of difficulty: easy, medium, hard
 * **Player vs. Player**: Play against anther human opponent.
+* **AI vs. AI**: Watch the computer play against itself
+* **Player vs. AI**: Play against a computer opponent, with 3 levels of difficulty: easy, medium, hard
   - The "Easy" difficulty level just makes a random move.
   - The "Medium" difficulty level uses some logic to find wining and blocking moves.
   - The "Hard" difficulty level uses the **Minimax algorithm** to make the best possible move every time, making it an unbeatable opponent.
