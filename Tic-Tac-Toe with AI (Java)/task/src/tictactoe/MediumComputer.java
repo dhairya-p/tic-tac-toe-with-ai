@@ -13,7 +13,6 @@ public class MediumComputer implements Player {
 
     /**
      * Make a move as medium level AI.
-     *
      * If there is a winning move, take it. Otherwise, if there is a blocking move, take it.
      * If neither, fall back to a random move.
      *
@@ -22,8 +21,8 @@ public class MediumComputer implements Player {
     @Override
     public void getMove(Board board) {
         // Check if there is a winning or blocking move
-        int[] move = board.getWinningOrBlockingMove(symbol) == null
-                ? board.getWinningOrBlockingMove(symbol == 'X' ? 'O' : 'X')
+        int[] move = board.getWinningOrBlockingMove(symbol) == null  // check winning
+                ? board.getWinningOrBlockingMove(symbol == 'X' ? 'O' : 'X') // check blocking
                 : board.getWinningOrBlockingMove(symbol);
 
         if (move != null) {
