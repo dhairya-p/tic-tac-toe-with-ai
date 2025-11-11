@@ -1,0 +1,8 @@
+custom_name: Keyword "super"
+content:
+  - Theory
+  - Inheritance and constructor usage in pet namespace
+  - When the keyword is used
+  - Class hierarchy
+  - Fix the non-compiled hierarchy
+  - When the keyword cannot be used

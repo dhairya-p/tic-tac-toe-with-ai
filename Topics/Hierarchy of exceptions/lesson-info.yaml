@@ -1,0 +1,5 @@
+content:
+  - Theory
+  - BadRequestException
+  - Overview the hierarchy
+  - Subclasses of Exception

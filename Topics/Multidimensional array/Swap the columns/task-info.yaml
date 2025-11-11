@@ -1,0 +1,15 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: src/Debug.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/1928#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 28 May 2025 09:21:12 UTC"
+record: -1
+submission_language: java17

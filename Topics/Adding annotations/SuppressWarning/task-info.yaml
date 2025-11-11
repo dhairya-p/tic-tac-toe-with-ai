@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: '@SuppressWarnings(element = "deprecation")'
+  - text: "@SuppressWarnings(\"deprecation\", \"unused\")"
+  - text: '@SuppressWarnings'
+  - text: "@SuppressWarnings({\"deprecation\", \"unused\"})"
+  - text: '@SuppressWarnings(value = "deprecation")'
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2582#comment
+status: Solved
+record: -1
+local_check: false

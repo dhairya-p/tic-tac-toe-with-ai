@@ -1,0 +1,31 @@
+content:
+  - For loop
+  - Break and continue. Branching
+  - Declaring methods
+  - Multiple conditions  switch
+  - Method  main
+  - Functional decomposition
+  - Array
+  - Iterating over arrays
+  - Arrays as parameters
+  - Errors in programs
+  - Multidimensional array
+  - Defining classes
+  - Objects and their properties
+  - Random class
+  - NullPointerException
+  - Instance methods
+  - Grouping classes with packages
+  - Initializing new instances. Constructor
+  - Getters and setters
+  - Multiple constructors
+  - Keyword  super
+  - Adding annotations
+  - Static members
+  - Method overriding
+  - Hierarchy of exceptions
+  - Polymorphism
+  - Declaring functionality with interfaces
+  - Abstract class
+  - Debugging techniques
+  - Recursion

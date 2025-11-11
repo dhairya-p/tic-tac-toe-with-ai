@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: An annotation always has one element named <b>value</b>.
+  - text: Annotations cannot mark parameters of a method.
+  - text: "The characters # and ! may indicate to the compiler that it is dealing with\
+    \ an annotation."
+  - text: A method can be declared with multiple annotations.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2581#comment
+status: Solved
+record: -1
+local_check: false
