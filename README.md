@@ -46,6 +46,10 @@ To compile and run the project from your terminal, follow these steps:
      ```bash
       Input command: start hard hard
      ```
+     Enter coordinates:
+     ```bash
+      Enter the coordinates: 1 3 (row col)
+     ```
     To exit:
      ```bash
       Input command: exit
